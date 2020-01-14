@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/signOut"
+        android:title="SIGN OUT"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/resetList"
+        android:title="Reset List"/>
+    <item
+        android:id="@+id/clearFavorites"
+        android:title="Clear favorites"/>
+    <item
+        android:id="@+id/chat"
+        android:title="Chat with us!"/>
+</menu>

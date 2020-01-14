@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdoptPet</string>
+    <string name="MayaDesc">Este o catelusa dragura, prietenoasa, perfecta pentru o familie care sta la apartament</string>
+    <string name="MayaTitle">Maya, 3 years</string>
+    <string name="CocoTitle">Coco, 1 year</string>
+    <string name="CocoDesc">Canta toata ziua si abea asteapta sa primeasca atentie, dar este alergic la seminte</string>
+    <string name="MocoTitle">Moco, 8 years</string>
+    <string name="MocoDesc">Este o pisica alintata care din cauza felului in care a fost abndonata are mai greu incredere in oameni</string>
+
+</resources>

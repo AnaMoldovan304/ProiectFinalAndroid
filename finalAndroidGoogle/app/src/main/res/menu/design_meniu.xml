@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/design1"
+        android:title="Design 1"
+        android:visible="true"/>
+    <item android:id="@+id/design2"
+        android:title="Design 2"
+        android:visible="true"/>
+    <item android:id="@+id/bothDesigns"
+        android:title="Both Designs"
+        android:visible="true"/>
+</menu>
