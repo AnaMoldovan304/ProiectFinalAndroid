@@ -1,6 +1,6 @@
 # ProiectFinalAndroid
 AdoptPetApplication
-1.Apasati butonul de singin
+1.Apasati butonul de Sign in
 
 2.Faceti long-press pe o imagine si alegeti una din optiunile: Adopt a pet care va sterge din lista oferta respectiva sau Add pet care va adauga un nou animalut pentru adoptie
 
